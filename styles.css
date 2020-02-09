@@ -1,0 +1,196 @@
+body{
+	background-color:#C9C994;
+  font-family: 'Montserrat', sans-serif;
+}
+
+#title{
+  background-color: #676734;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.container-fluid {
+ /* padding: 2% 12%;*/
+}
+
+h1 {
+  font-family: 'montserrat', sans-serif;
+  font-weight: 1000;
+  font-size: 3rem;
+  line-height: 1.4;
+}
+
+.home-thing{
+	margin-top: 30%;
+}
+
+.title-image{
+	margin-top: 30%;
+	margin-left:5%;
+	  width: 100%;
+  transform: rotate(7deg);
+}
+
+.download-button{
+	margin: 7% 0% 0% 3%;
+	
+}
+
+.navbar-brand {
+	margin-right: 190px;
+  font-family: 'Ubuntu';
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.navbar {
+	z-index: 1;
+	background-color:#006432;
+	position:fixed;
+  
+}
+
+.nav-item {
+  padding: 0 15px;
+}
+
+.nav-link {
+  font-weight: lighter;
+}
+
+
+#features{
+	padding: 7% 15%;
+}
+
+
+
+
+.features-box{
+text-align:center;
+padding-top: 2%;
+transition: background-color 3s;
+transition: color 3s;
+}
+
+.features-box:hover{
+background-color:#ADAD5A;
+color:#FFF;
+}
+
+h3 {
+	font-family: "Montserrat-Bold";
+}
+
+
+.icon{
+	color:#676734;
+	margin-bottom: 1rem;
+	 transition: color 1s;
+	
+}
+
+
+.icon:hover{
+	color:#fff;
+}
+
+#testimonials{
+	text-align:center;
+	background-color: #676734;
+	 transition: background-color 3s;
+}
+
+
+#testimonials:hover{
+	background-color:#ADAD5A;
+
+}
+
+DEDEBC
+
+
+
+
+
+.img-1{
+	border-radius: 100%;
+}
+
+
+#testimonials h1{
+	font-family: "Montserrat-Bold";
+	font-weight:bold;
+	font-size:3rem;
+}
+
+
+
+.carousel-item{
+	padding: 7% 15%;
+}
+	
+#pricing {
+  padding: 3% 10%;
+}
+
+.price-item {
+  margin-bottom: 4%;
+}
+
+.card-header{
+	
+	background-color:#676734;
+	
+}
+
+.card{
+background-color:#ADAD5A;
+	 transition: background-color 3s;
+}
+
+
+.card:hover{
+	background-color:#C9C994;
+}
+
+
+#cta{
+  text-align: center;
+  padding: 5% 15%;
+  background-color: #676734;
+}
+
+#cta-text{
+  padding-bottom: 2%;
+  color: #fff;
+  font-family: 'Ubuntu';
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.footer-button{
+  margin: 2% 1%;
+}
+
+#footer{
+  font-family: 'Ubuntu';
+  font-size:3rem;
+  color: #fff;
+  padding-top: 2%;
+  padding-bottom: 1%;
+  text-align: center;
+}
+
+
+#footer-text{
+  font-family: 'Ubuntu';
+  color: #000;
+  padding-top: 2%;
+  padding-bottom: 1%;
+  text-align: center;
+}
+
+
+.contact-text{
+	color:#fff;
+}
